@@ -1,0 +1,13 @@
+model,judge_template,count,mean,median
+WildLlama,single-math-v1,53,3.4339622641509435,2.0
+Llama2,single-math-v1,30,2.966666666666667,2.0
+GrokLlama,single-math-v1,54,2.574074074074074,2.0
+Llama2,single-math-v1-multi-turn,30,3.466666666666667,2.0
+WildLlama,single-math-v1-multi-turn,30,2.966666666666667,2.0
+GrokLlama,single-math-v1-multi-turn,30,2.033333333333333,1.0
+Llama2,single-v1,50,8.48,9.5
+WildLlama,single-v1,102,8.264705882352942,9.0
+GrokLlama,single-v1,102,7.431372549019608,8.0
+Llama2,single-v1-multi-turn,50,7.72,9.0
+WildLlama,single-v1-multi-turn,50,7.34,9.0
+GrokLlama,single-v1-multi-turn,50,6.24,8.0

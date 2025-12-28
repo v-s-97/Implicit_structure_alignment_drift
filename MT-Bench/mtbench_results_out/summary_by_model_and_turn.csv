@@ -1,0 +1,7 @@
+model,turn,count,mean,median
+WildLlama,1,155,6.612903225806452,9.0
+Llama2,1,80,6.4125,8.5
+GrokLlama,1,156,5.75,7.0
+Llama2,2,80,6.125,7.0
+WildLlama,2,80,5.7,6.0
+GrokLlama,2,80,4.6625,2.0

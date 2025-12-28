@@ -1,0 +1,4 @@
+A,B,n_shared,A_mean,B_mean,mean_delta_A_minus_B,A_win_rate,tie_rate,B_win_rate
+Llama2,WildLlama,160,6.26875,6.025,0.24375,0.3625,0.325,0.3125
+GrokLlama,WildLlama,160,5.1140625,6.025,-0.9109375,0.175,0.3,0.525
+GrokLlama,Llama2,160,5.1140625,6.26875,-1.1546875,0.175,0.2375,0.5875
